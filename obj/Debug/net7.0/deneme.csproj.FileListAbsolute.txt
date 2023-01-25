@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Sites\deneme\bin\Debug\net7.0\deneme.exe
+C:\Users\HP\Documents\Sites\deneme\bin\Debug\net7.0\deneme.deps.json
+C:\Users\HP\Documents\Sites\deneme\bin\Debug\net7.0\deneme.runtimeconfig.json
+C:\Users\HP\Documents\Sites\deneme\bin\Debug\net7.0\deneme.dll
+C:\Users\HP\Documents\Sites\deneme\bin\Debug\net7.0\deneme.pdb
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\deneme.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\deneme.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\deneme.AssemblyInfo.cs
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\deneme.dll
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\refint\deneme.dll
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\deneme.pdb
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\deneme.genruntimeconfig.cache
+C:\Users\HP\Documents\Sites\deneme\obj\Debug\net7.0\ref\deneme.dll
